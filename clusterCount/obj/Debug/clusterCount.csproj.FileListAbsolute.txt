@@ -1,0 +1,5 @@
+D:\MicroSoft\C\clusterCount\clusterCount\bin\Debug\clusterCount.exe
+D:\MicroSoft\C\clusterCount\clusterCount\bin\Debug\clusterCount.pdb
+D:\MicroSoft\C\clusterCount\clusterCount\obj\Debug\clusterCount.csprojResolveAssemblyReference.cache
+D:\MicroSoft\C\clusterCount\clusterCount\obj\Debug\clusterCount.exe
+D:\MicroSoft\C\clusterCount\clusterCount\obj\Debug\clusterCount.pdb
